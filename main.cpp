@@ -9,5 +9,6 @@ int main()
     cout<<"À-B="<<a-b<<'\n';
     int a,b;
     cin>>a>>b;
+    cin>>a*b;
     return 0;
 }
